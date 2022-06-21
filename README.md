@@ -1,0 +1,1 @@
+A loosely typed working programming language built using JavaScript. Based on "Building an interpreter from scratch" by Dmitry Soshnikov.
